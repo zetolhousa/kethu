@@ -1,8 +1,3 @@
-/*
-    STEP-131
-    https://viewsourcecode.org/snaptoken/kilo/06.search.html
-*/
-
 //feature test macros: explicitly requesting additional features by defining one or more of the feature macros
 #define _DEFAULT_SOURCE ////If you define this macro, most features are included apart from X/Open, LFS and GNU extensions: the effect is to enable features from the 2008 edition of POSIX, as well as certain BSD and SVID features without a separate feature test macro to control them.
 #define _BSD_SOURCE
